@@ -1,0 +1,57 @@
+﻿生成启动时间为 2016/3/23 17:37:48。
+     1>项目“E:\WYQ\ICP\2015Coin3d - PCL_Registration (v1_100--v3_100 done)\2015Coin3d\2015Coin3d.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\eigen /IE:\WYQ\ICP\2015Coin3d\2015Coin3d /ID:\eigen /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D SIMVOLEON_DLL /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\2015Coin3d.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 2015Coin3d.cpp
+         2015Coin3d.cpp
+     1>d:\opencv-3.0.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\opencv-3.0.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\opencv-3.0.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\coin3d-2\include\inventor\sbbasic.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\coin3d-2\include\inventor\win\viewers\sowinfullviewer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(332): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(356): warning C4305: “参数”: 从“double”到“float”截断
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(357): warning C4305: “参数”: 从“double”到“float”截断
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(358): warning C4305: “参数”: 从“double”到“float”截断
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(364): warning C4305: “参数”: 从“double”到“float”截断
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(365): warning C4305: “参数”: 从“double”到“float”截断
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(366): warning C4305: “参数”: 从“double”到“float”截断
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(372): warning C4305: “参数”: 从“double”到“float”截断
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(373): warning C4305: “参数”: 从“double”到“float”截断
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(374): warning C4305: “参数”: 从“double”到“float”截断
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(391): warning C4305: “参数”: 从“double”到“float”截断
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(399): warning C4305: “参数”: 从“double”到“float”截断
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(478): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(497): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(497): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(571): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(582): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(593): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(604): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(617): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(628): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(639): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(650): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(663): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(674): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(685): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(696): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(720): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(731): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(731): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(732): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(732): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(733): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(733): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\wyq\icp\2015coin3d - pcl_registration (v1_100--v3_100 done)\2015coin3d\2015coin3d.cpp(746): warning C4305: “参数”: 从“double”到“const float”截断
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\WYQ\ICP\2015Coin3d - PCL_Registration (v1_100--v3_100 done)\Debug\2015Coin3d.exe" /INCREMENTAL /NOLOGO simvoleon2d.lib simage1d.lib coin2d.lib sowin1d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib opencv_ts300d.lib opencv_ts300.lib opencv_world300d.lib opencv_world300.lib glaux.lib glu32.lib glut32.lib opengl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\WYQ\ICP\2015Coin3d - PCL_Registration (v1_100--v3_100 done)\Debug\2015Coin3d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\WYQ\ICP\2015Coin3d - PCL_Registration (v1_100--v3_100 done)\Debug\2015Coin3d.lib" /MACHINE:X86 Debug\2015Coin3d.obj
+         Debug\ICP.obj
+         Debug\MCdate.obj
+         Debug\MyMath.obj
+         Debug\stdafx.obj
+         2015Coin3d.vcxproj -> E:\WYQ\ICP\2015Coin3d - PCL_Registration (v1_100--v3_100 done)\Debug\2015Coin3d.exe
+     1>已完成生成项目“E:\WYQ\ICP\2015Coin3d - PCL_Registration (v1_100--v3_100 done)\2015Coin3d\2015Coin3d.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.20
